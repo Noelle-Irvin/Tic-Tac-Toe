@@ -1,0 +1,19 @@
+.square{
+	width:150px;
+	height:150px;
+	background-color: white;
+	font-size:60px;
+	vertical-align: top;
+}
+.square:hover{
+	background-color: #006dcc; /*Bootstrap Primary*/
+}
+.mode{
+	margin: 10px;
+}
+.reset{
+	margin: 10px;
+}
+.board{
+	min-width:320px;
+}
